@@ -66,7 +66,3 @@ If you encounter issues:
 - Check the XPath selectors if WhatsApp Web layout changes.
 - Make sure you have an active internet connection.
 
-
-# WhatsApp-Group-Member-Adder
-# WhatsApp-Group-Member-Adder
-# WhatsApp-Group-Member-Adder
